@@ -1,0 +1,18 @@
+{
+  "name": "ink-hotkeys",
+  "version": "0.0.1",
+  "description": "Glue between ink and react-hotkeys",
+  "main": "index.js",
+  "repository": "https://github.com/visigoth/ink-hotkeys",
+  "author": "Shaheen Gandhi <gandhi.shaheen@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "ink": "^2.2.0",
+    "react": "^16.8.6",
+    "react-hotkeys": "^1.1.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5"
+  }
+}
